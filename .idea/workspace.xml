@@ -2,23 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b78c6c8-6d7f-4ae9-b7a2-879b4378c8f6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/fonts/aleo-regular-webfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/fonts/aleo-regular-webfont.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/fonts/demo/icomoon (3).zip" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/fonts/icomoon.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/fonts/icomoon.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/fonts/roboto-bold-webfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/fonts/roboto-bold-webfont.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/fonts/roboto-italic-webfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/fonts/roboto-italic-webfont.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/fonts/roboto-medium-webfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/fonts/roboto-medium-webfont.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/fonts/roboto-regular-webfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/fonts/roboto-regular-webfont.woff2" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer.js" afterPath="$PROJECT_DIR$/src/components/Footer.js" />
-      <change beforePath="$PROJECT_DIR$/src/components/Layout.js" afterPath="$PROJECT_DIR$/src/components/Layout.js" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navbar.js" afterPath="$PROJECT_DIR$/src/components/Navbar.js" />
-      <change beforePath="$PROJECT_DIR$/src/img/logo.svg" afterPath="" />
       <change beforePath="$PROJECT_DIR$/static/admin/config.yml" afterPath="$PROJECT_DIR$/static/admin/config.yml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,8 +28,8 @@
       <file leaf-file-name="config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/admin/config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="30" column="18" lean-forward="true" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+            <state relative-caret-position="1156">
+              <caret line="68" column="21" lean-forward="true" selection-start-line="68" selection-start-column="21" selection-end-line="68" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -171,7 +154,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="323">
-                <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+                <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -195,7 +178,7 @@
         <entry file="file://$PROJECT_DIR$/src/components/BlogRoll.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="935">
-              <caret line="55" column="12" lean-forward="true" selection-start-line="55" selection-start-column="12" selection-end-line="55" selection-end-column="12" />
+              <caret line="55" column="12" lean-forward="false" selection-start-line="55" selection-start-column="12" selection-end-line="55" selection-end-column="12" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
@@ -360,12 +343,12 @@
       <updated>1591907566511</updated>
       <workItem from="1591907567822" duration="2191000" />
       <workItem from="1591943130136" duration="7316000" />
-      <workItem from="1591954240080" duration="3499000" />
+      <workItem from="1591954240080" duration="3878000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13006000" />
+    <option name="totallyTimeSpent" value="13385000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
@@ -727,7 +710,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="323">
-            <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -747,7 +730,7 @@
     <entry file="file://$PROJECT_DIR$/src/components/BlogRoll.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="935">
-          <caret line="55" column="12" lean-forward="true" selection-start-line="55" selection-start-column="12" selection-end-line="55" selection-end-column="12" />
+          <caret line="55" column="12" lean-forward="false" selection-start-line="55" selection-start-column="12" selection-end-line="55" selection-end-column="12" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
@@ -818,8 +801,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static/admin/config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="30" column="18" lean-forward="true" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+        <state relative-caret-position="1156">
+          <caret line="68" column="21" lean-forward="true" selection-start-line="68" selection-start-column="21" selection-end-line="68" selection-end-column="21" />
           <folding />
         </state>
       </provider>
