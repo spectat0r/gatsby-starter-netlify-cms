@@ -1,0 +1,4 @@
+---
+path: /solutions
+title: solutions
+---
